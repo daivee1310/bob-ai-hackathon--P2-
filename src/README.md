@@ -1,7 +1,6 @@
 # Source Code
 
-Place all your project's source code in this folder.
-
+file:///C:/Users/Daivee%20Patel/OneDrive/Desktop/pharmasignal-ai-fda-safety-intelligence-platform.html
 ## Structure Guidelines
 
 Organize your code logically. Here are common patterns — use whatever fits
